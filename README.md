@@ -1,3 +1,6 @@
+![GitHub Marketplace](https://img.shields.io/badge/GitHub-Marketplace-orange)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 # ErvraTech
 
 ErvraTech is an open, non-commercial engineering and research organization.
